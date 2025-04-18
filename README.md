@@ -1,6 +1,6 @@
-# 🛒 Webshop Projekt – Információs Rendszerek
+# 🛒 Webshop Projekt – Web Technológiák 2
 
-Ez a repository az **Információs rendszerek** című egyetemi kurzus keretében készült. A cél egy teljeskörű webshop rendszer megvalósítása volt **Angular frontenddel** és **Node.js backenddel**, admin és user jogosultságkezeléssel.
+Ez a repository az **Web Technológiák 2** című egyetemi kurzus keretében készült. A cél egy teljeskörű webshop rendszer megvalósítása volt **Angular frontenddel** és **Node.js backenddel**, admin és user jogosultságkezeléssel.
 
 ---
 
